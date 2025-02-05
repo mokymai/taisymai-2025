@@ -1,4 +1,4 @@
-name: Netikslumas teste
+name: Netikslumas teste [Vilmanto]
 description: Pranešimas apie netikslumą teste
 title: '[testas]: netikslumas → taisymas (netikslumo esmė)'
 labels: ["Naujas :new:", "Vieta: testai :test_tube:"]
