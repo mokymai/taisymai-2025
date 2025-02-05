@@ -1,5 +1,5 @@
 name: Netikslumas pratybų svetainėje [Vilmanto]
-description: Pranešimas apie netikslumą svetainėje mokymai.github.io/biochemikams
+description: Pranešimas apie netikslumą svetainėje mokymai.github.io/pratybos
 title: '[pratybos]: netikslumas → taisymas (netikslumo esmė)'
 labels: ["Naujas :new:", "Vieta: pratybų svetainė :globe_with_meridians:"]
 body:
@@ -17,7 +17,7 @@ body:
     id: url
     attributes:
       label: Nuoroda
-      description: Tiksli nuoroda iš svetainės mokymai.github.io/biochemikams/
+      description: Tiksli nuoroda iš svetainės mokymai.github.io/pratybos/
   - type: textarea
     id: screenshot
     attributes:
